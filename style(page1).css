@@ -1,0 +1,46 @@
+.child{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.child1{
+    position:absolute;
+    top:40%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.child3{
+    position:absolute;
+    top:60%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.child2{
+    position:absolute;
+    top:90%;
+    left:60%;
+    transform:translate(-50%,-50%);
+}
+.child4{
+    position:absolute;
+    top:20%;
+    left:80%;
+    transform:translate(-50%,-50%);
+}
+.button1 {
+background-color: red;
+border: 3px solid black;
+color: white;
+padding: 3px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 18px;
+}
+
+
+.button1 {border-radius: 10px;}
+.button1:hover {
+    background-color: green;
+  }
